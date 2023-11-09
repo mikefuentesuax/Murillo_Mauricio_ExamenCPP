@@ -1,0 +1,48 @@
+Parte 1: Preguntas de opción múltiple (Cada pregunta vale 5 puntos)
+
+    C++ es un lenguaje de programación ampliamente utilizado que ha evolucionado a lo largo de los años. ¿Cuáles de las siguientes opciones describen correctamente las características centrales de C++?
+        a. Orientación a objetos
+        b. Tipado fuerte y estático
+        c. Soporte a la programación de bajo nivel
+        d. Todas las anteriores
+**Respuesta: d. todas las anteriores.**
+
+    Durante el proceso de desarrollo, a menudo es necesario compilar y enlazar múltiples archivos. En este contexto, ¿qué es un archivo makefile?
+        a. Un archivo que contiene código fuente C++
+        b. Un archivo que ayuda a gestionar y automatizar la compilación de proyectos de programación
+        c. Un archivo que almacena las configuraciones del entorno de desarrollo
+        d. Un archivo que guarda los resultados de las pruebas unitarias
+**Respuesta: b. Un archivo que ayuda a gestionar y automatizar la compilación de proyectos de programación.**
+
+    En C++, las variables pueden referirse a datos o direcciones de memoria. En relación a esto, ¿qué son los punteros en la programación C++?
+        a. Variables que almacenan un valor específico
+        b. Variables que almacenan la dirección de otra variable
+        c. Funciones que apuntan a otras funciones
+        d. Ninguna de las anteriores
+**Respuesta: b. Variables que almacenan la dirección de otra variable**
+
+
+Parte 3: Preguntas de desarrollo (Cada pregunta vale 5 puntos)
+
+    La programación ha adoptado diferentes enfoques a lo largo del tiempo. Explica:
+        ¿Cómo la programación orientada a objetos difiere de la programación procedimental?
+**Respuesta: Una de las caracteísticas principales es la programación orientada a objetos, es que engloba datos y los métodos que se usan sobre estos, mientras que en la programación procedimental se recurre a procedimientos
+o funciones que actuan sobre datos. La organización en clases y objetos en al programación orientada a objetos y en el caso de la procedimental la división del codigo en funciones.**
+        ¿Cómo C++ brinda soporte para ambos paradigmas?
+**Respuesta: Permite definir funciones, introduce la programación orientada a objetos y se pueden crear nuevas clases a partir de las ya existentes.**
+
+
+    Las excepciones en C++ tienen un comportamiento específico. Describe:
+        ¿Qué es la propagación de una excepción?
+**Respuesta: Es el proceso en el cual una excepción generada en un bloque se propaga hasta ser operada correctamente o alcanza el nivel superior del programa provocando la finalización de este.**
+        ¿Qué ocurre si una excepción lanzada no es capturada por ningún bloque catch?
+**Respuesta:La excepción que no se capturada por ningún bloque catch seguirá hasta los niveles superiores hasta encontra el bloque catch correspondiente, en caso de que no exista ningún bloque catch el programa se terminará 
+y dará error.**
+
+
+    La gestión de recursos es un concepto crucial en la programación. Explica:
+
+    ¿Qué se entiende por "Adquisición de Recursos" en el contexto de C++?
+**Respuesta: Gestionar y reservar recurso para la ejecución de un programa.**
+    ¿Por qué es importante y cómo se relaciona con la gestión de excepciones?
+**Respuesta: Gestiona y garantiza el uso eficiente de los recursos del sistema. En el caso de que no se gestionen las excepciones de manera adecuada provoca que el programa se termine o cierre abruptamente.**
