@@ -1,0 +1,3 @@
+C:/Users/mikef/OneDrive/Documentos/GitHub/Optimizacion_Memoria/cmake-build-debug/CMakeFiles/Optimizacion_Memoria.dir
+C:/Users/mikef/OneDrive/Documentos/GitHub/Optimizacion_Memoria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mikef/OneDrive/Documentos/GitHub/Optimizacion_Memoria/cmake-build-debug/CMakeFiles/rebuild_cache.dir

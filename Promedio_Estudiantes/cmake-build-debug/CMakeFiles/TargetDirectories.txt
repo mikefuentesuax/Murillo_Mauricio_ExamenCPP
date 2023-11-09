@@ -1,0 +1,3 @@
+C:/Users/mikef/OneDrive/Documentos/GitHub/Promedio_Estudiantes/cmake-build-debug/CMakeFiles/Promedio_Estudiantes.dir
+C:/Users/mikef/OneDrive/Documentos/GitHub/Promedio_Estudiantes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mikef/OneDrive/Documentos/GitHub/Promedio_Estudiantes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Murillo_Mauricio_ExamenCPP",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Murillo_Mauricio_ExamenCPP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Murillo_Mauricio_ExamenCPP-Debug-2dc915d40df3c658280e.json",
+					"name" : "Murillo_Mauricio_ExamenCPP",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mikef/OneDrive/Documentos/GitHub/Murillo_Mauricio_ExamenCPP/cmake-build-debug",
+		"source" : "C:/Users/mikef/OneDrive/Documentos/GitHub/Murillo_Mauricio_ExamenCPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
